@@ -18,6 +18,7 @@ State your observation. Submit the plots with written work.
 Pro2:
 
 Write MATLAB functions for 
+
 (a) improved bisection method, 
 
 (b) Newton's Method, 
